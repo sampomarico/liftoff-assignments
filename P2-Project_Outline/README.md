@@ -7,12 +7,19 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+SurveryCentral is an educational testing app that allows teahchers to easily create auto-graded tests for their students. Teachers will be able to login, create a test, create classrooms of students, and see and sort student grades. As a student, you are able to login and take any test assigned to you and see your grades instantly.
 ### Features
-Include Features here
+-User login: Users will be able to login as either a student or teacher profiles. Certain parts of the app will have restricted access to certain users.
+-Test Creation: Teachers will be able to select from several question types to create tests and assign them to students.
+-Grading: When a student submits a test it is automatically graded. Both the student and teacher are able to see the grade.
+-Classroom: Teacher can organize groups of students into a classroom.
 ### Technologies
-Include Technologies here
+C#.Net Core MVC
+Javascript
+HTML Razor Pages
+Bootstrap
+MySQL
 ### What I'll Have to Learn
-Include what you will need to learn here
+I'll have to learn more about connecting the front-end and back-end using JavaScript and C# as well as using establishing relationships between objects as this project will have several kinds of relationships and tables. I will also be able to learn about group dynamics such as using a git group workflow, understanding and adding to another developer's code, and project management through Trello.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/MRvWeRY4/liftoff-project
